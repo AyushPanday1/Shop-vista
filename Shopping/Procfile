@@ -1,0 +1,2 @@
+Client: npm start
+Api: npx nodemon index.js
